@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Cutive+Mono);
+
+body {
+  background-color: #CFBAE1;
+}
+
+p{text-align: center;
+color: black;
+font-size: 300%;
+}
+
+h1 {
+  color: #484A49;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  color:purple;
+}
+img {
+  width: 300px;
+  padding:37px
+}
+table {
+  font-family: 'Cutive Mono';
+  boarder-collapse: collapse;
+  width: 45%;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+
+td, th {
+  border: 3px solid #3C2A3B;
+  text-align: left;
+  padding: 5px;
+}
+
+li {
+  display: inline;
+  float: left;
+width: 200px;
+padding: 5px;
+margin: 5px;}
+
+li a:hover {
+  background-color: #111;
+}
