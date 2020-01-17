@@ -1,4 +1,3 @@
-
 body {
   background-color: #CFBAE1;
 }
@@ -47,4 +46,14 @@ margin: 5px;}
 
 li a:hover {
   background-color: #111;
+}
+h5 {
+   color: #484A49;
+  text-align: center;
+  text-decoration: underline;
+}
+h6 {
+  color: black;
+  text-align: left-align;
+  font-size: 200%;
 }
