@@ -7,7 +7,7 @@ a{
 .container {
   width: 100%;
   height: 25%;
-  background: #D9DDDC;
+  background: #ffc0cb;
   min-height: 100px;
   position: relative;
 }
@@ -84,5 +84,10 @@ ul{font-size:150%}
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+br {
+  text-align: left-align;
+  color: burgundy;
+  font-family: "Times New Roman";
 }
      </style>
